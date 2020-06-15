@@ -2,7 +2,7 @@
 
 I am still a beginner on Vim.
 
-Besides vimrc, to have my configuration with supertab, you need to:
+In order to have my configuration with supertab you need vimrc and you must:
 
 1. Download supertab.vmb to any directory.
 
