@@ -1,6 +1,6 @@
 # vim
 
-![The Great Wave off Kanagawa](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/960px-Tsunami_by_hokusai_19th_century.jpg)
+![The Great Wave off Kanagawa](./painting.jpg)
 
 *"The Great Wave off Kanagawa" (c. 1831) by Katsushika Hokusai — [Wikipedia](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)*
 
